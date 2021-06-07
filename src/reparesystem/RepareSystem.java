@@ -17,5 +17,12 @@ public class RepareSystem {
     public static void main(String[] args) {
         System.out.println("sheory");
     }
-    
 }
+
+/*
+1.clonar 
+2.fazer as edições necessarias
+3.commit adicionando mensagem curta e direta sobre suas atualizações
+4.Expandir codigo
+
+*/
